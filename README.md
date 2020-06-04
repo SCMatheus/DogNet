@@ -5,8 +5,8 @@ Foi feito para a avaliação N2 do professor Arlindo da Puc Goiás da disciplina
 
 # Exemplo
 
-##Fred
+## Fred
 <img src="/Fred/vd1_1.png">
 
-##Kika
+## Kika
 <img src="/Kika/vd1_1.png">
